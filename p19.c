@@ -1,4 +1,21 @@
 #include<stdio.h>
+
+/*
+output:-
+   Enter the number of rows :10
+
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+ *******
+  *****
+   ***
+    *
+   
+*/
 int main()
 {
 int i,j,k,r;      //declaring integer variables i,j,k for loops and r for number of rows
